@@ -1,2 +1,5 @@
 get the user data..
 process the data
+
+
+there is proccess getting to started to create avatar
